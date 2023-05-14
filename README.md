@@ -26,6 +26,7 @@
 [![css](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
 [![sqlserver](https://github.com/idanNtal/idanNtal/assets/99834921/de4f071f-e014-458c-bfba-1397f51e135b)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
+<a base target="_blank" href="placeholder.com" target="_blank">Opens in new tab</a>
 <!--
 <p align="center">
   <a target=”_blank” href="[https://skillicons.dev](https://learn.microsoft.com/en-us/dotnet/csharp/)"><img src="https://skillicons.dev/icons?i=cs"/></a>

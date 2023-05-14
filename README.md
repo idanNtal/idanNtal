@@ -13,7 +13,7 @@
 - 📫 How to reach me -  <idantal111@gmail.com>
 
     [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/idan~tal/)
-[Google](https://www.google.com) - _Google
+
 <br/>
 <br/>
 

@@ -20,7 +20,7 @@ My Name is Idan Tal
 [![js](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![html](https://skillicons.dev/icons?i=html)](https://html.com/)
 [![css](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
-[![sql server](https://github.com/idanNtal/idanNtal/assets/99834921/de4f071f-e014-458c-bfba-1397f51e135b)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[![sqlserver](https://github.com/idanNtal/idanNtal/assets/99834921/de4f071f-e014-458c-bfba-1397f51e135b)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 <!--
 <p align="center">

@@ -19,7 +19,7 @@
 
 - 💻 Skills :
 
-    [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/{:target="_blank"})
+    [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.Net](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
 [![js](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![html](https://skillicons.dev/icons?i=html)](https://html.com/)
@@ -27,8 +27,6 @@
 [![sqlserver](https://github.com/idanNtal/idanNtal/assets/99834921/de4f071f-e014-458c-bfba-1397f51e135b)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
  
-[go] (http://stackoverflow.com) {:target="_blank" rel="noopener"}
-
 <!--
 <p align="center">
   <a target=”_blank” href="[https://skillicons.dev](https://learn.microsoft.com/en-us/dotnet/csharp/)"><img src="https://skillicons.dev/icons?i=cs"/></a>

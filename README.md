@@ -15,14 +15,15 @@ My Name is Idan Tal
 
 - Skills :
 
-    [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.Net](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+    [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/){:target="_blank" rel="noopener"}
+[![.Net](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/){:target="_blank" rel="noopener"}
 [![js](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![html](https://skillicons.dev/icons?i=html)](https://html.com/)
 [![css](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
 [![sql server](https://github.com/idanNtal/idanNtal/assets/99834921/de4f071f-e014-458c-bfba-1397f51e135b)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 
+<!--
 <p align="center">
   <a target=”_blank” href="[https://skillicons.dev](https://learn.microsoft.com/en-us/dotnet/csharp/)"><img src="https://skillicons.dev/icons?i=cs"/></a>
   <a target=”_blank” href="https://dotnet.microsoft.com/en-us/"><img src="https://skillicons.dev/icons?i=dotnet"/></a>
@@ -31,7 +32,7 @@ My Name is Idan Tal
   <a target=”_blank” href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css"/></a>
   <a target=”_blank” href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://github.com/idanNtal/idanNtal/assets/99834921/de4f071f-e014-458c-bfba-1397f51e135b"/></a>
 </p>
-<!--  
+ 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)
 
 

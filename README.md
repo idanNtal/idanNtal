@@ -16,7 +16,6 @@ My Name is Idan Tal.
 [![js](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![html](https://skillicons.dev/icons?i=html)](https://html.com/)
 [![css](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
-[![sql Server](file:///C:/Users/97252/Downloads/SSMS18logo.jpg)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 
 <!--  

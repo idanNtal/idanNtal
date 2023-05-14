@@ -1,8 +1,8 @@
-Hi there 👋
-My Name is Idan Tal.
+    Hi there 👋
+    My Name is Idan Tal.
 
 - 🔭 I’m currently studying at Sela College
-- 🌱 I’m currently learning for software developer
+- 🌱 Learning for software developer
 
 
 
@@ -16,12 +16,11 @@ My Name is Idan Tal.
 
 <b>Skills :</b>
 
-   [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.Net](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
 [![js](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![html](https://skillicons.dev/icons?i=html)](https://html.com/)
 [![css](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
-
 
 <!--  
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)

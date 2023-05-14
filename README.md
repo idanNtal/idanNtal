@@ -6,7 +6,7 @@ My Name is Idan Tal.
 
 
 - 📫 How to reach me: ...
-[![LinkedIn](?i=linkedin)](https://www.linkedin.com/in/idan~tal/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/idan~tal/)
 
 Skills :
 

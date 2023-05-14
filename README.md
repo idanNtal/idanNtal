@@ -16,7 +16,7 @@ My Name is Idan Tal.
 [![js](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![html](https://skillicons.dev/icons?i=html)](https://html.com/)
 [![css](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
-[![sql Server](https://www.google.com/url?sa=i&url=https%3A%2F%2Fandyleonard.blog%2Ftag%2Fsql-server-management-studio%2F&psig=AOvVaw3vkOQUJCXjDSoAxWFaSAnN&ust=1684126531192000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiAurCC9P4CFQAAAAAdAAAAABAK)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[![sql Server](file:///C:/Users/97252/Downloads/SSMS18logo.jpg)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 
 <!--  

@@ -5,13 +5,14 @@ My Name is Idan Tal.
 - 🌱 I’m currently learning for software developer
 
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/idan~tal/)
 
 Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)]([https://learn.microsoft.com/en-us/dotnet/csharp/](https://dotnet.microsoft.com/en-us/))
+https://skillicons.dev
 
 
 <!--  

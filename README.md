@@ -10,12 +10,15 @@ My Name is Idan Tal.
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/idan~tal/)
 
 Skills :
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)]([https://learn.microsoft.com/en-us/dotnet/csharp/](https://dotnet.microsoft.com/en-us/))
-https://skillicons.dev
-
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.Net](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+[![js](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 
 <!--  
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)
+
+
+
 **idanNtal/idanNtal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -1,6 +1,10 @@
-Hi there 👋
-
-My Name is Idan Tal
+<h2 align="center">
+    <p>
+        Hi there 👋
+        <br/>
+        My Name is Idan Tal
+    </p>
+</h2>
 
 - 🔭 I’m currently studying at Sela College
 - 🌱 Learning for software developer
@@ -9,7 +13,7 @@ My Name is Idan Tal
 - 📫 How to reach me -  <idantal111@gmail.com>
 
     [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/idan~tal/)
-
+[Google](https://www.google.com) - _Google
 <br/>
 <br/>
 

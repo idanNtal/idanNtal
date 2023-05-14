@@ -2,7 +2,7 @@
     <p>
         Hi there 👋
         <br/>
-        My Name is Idan Tal
+        I'm Idan Tal
     </p>
 </h2>
 

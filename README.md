@@ -9,10 +9,15 @@ My Name is Idan Tal.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/idan~tal/)
 
-Skills :
+<b>Skills :</b>
+
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.Net](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
 [![js](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![html](https://skillicons.dev/icons?i=html)](https://html.com/)
+[![css](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+[![sql Server]([https://skillicons.dev/icons?i=sql](https://www.google.com/url?sa=i&url=https%3A%2F%2Fandyleonard.blog%2Ftag%2Fsql-server-management-studio%2F&psig=AOvVaw3vkOQUJCXjDSoAxWFaSAnN&ust=1684126531192000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiAurCC9P4CFQAAAAAdAAAAABAK))](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
 
 <!--  
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css)](https://skillicons.dev)

@@ -11,8 +11,9 @@
 <br/>
 
 - 📫 How to reach me -  <idantal111@gmail.com>
-
      [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/idan~tal/)
+
+     [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/idan~tal/target="_blank")
    
 <br/>
 <br/>

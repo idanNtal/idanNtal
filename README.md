@@ -8,11 +8,14 @@ My Name is Idan Tal
 
 - 📫 How to reach me -  idantal111@gmail.com 
 
-<a href="https://www.linkedin.com/in/idan~tal/">
+<a href="https://www.linkedin.com/in/idan~tal/" target=”_blank”>
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
 </a>
 
 <br/>
+ 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/idan~tal/)
+
 <br/>
 
 - Skills :

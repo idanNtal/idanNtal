@@ -7,7 +7,7 @@
 </h2>
 
 - 🔭 I’m currently studying at Sela College
-- 🌱 Learning for software developer
+- 🌱 Learning for Full-Stack developer
 <br/>
 
 - 📫 How to reach me -  <idantal111@gmail.com>
